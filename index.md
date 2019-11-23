@@ -7,8 +7,6 @@ type: tool
 pitch: The OWASP SecureTea Project provides a one-stop security solution for various devices (personal computers / servers / IoT devices) https://securetea.org
 ---
 
-## Description
-
 OWASP SecureTea
   <br>
 </h1>
@@ -27,10 +25,8 @@ OWASP SecureTea
 [![Follow Us](https://img.shields.io/twitter/url/https/secureteatool.svg?label=SecureTea%20Project&style=social)](https://twitter.com/secureteatool)
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors)
 [![Heroku][Heroku]](https://secure-tea.herokuapp.com/)
-
+## Description
 **The OWASP SecureTea Project** provides a one-stop security solution for various devices (personal computers / servers / IoT devices).
-
-
 
 ## Features
 
@@ -48,8 +44,6 @@ OWASP SecureTea
 - [x] [Interactive GUI For Ease Of Setting Up](/doc/en-US/user_guide.md#configuring-using-web-ui)
 
 ## Installation
-
-
 
 Before installing, please make sure to install the **[pre-requisites](/doc/en-US/user_guide.md#pre-requisites)**.
 
