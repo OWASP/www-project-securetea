@@ -8,6 +8,7 @@ pitch: The OWASP SecureTea Project provides a one-stop security solution for var
 ---
 
 ## Description
+  <h1 align="left">
   <br>
   OWASP SecureTea
   <br>
@@ -31,7 +32,7 @@ pitch: The OWASP SecureTea Project provides a one-stop security solution for var
 
 **The OWASP SecureTea Project** provides a one-stop security solution for various devices (personal computers / servers / IoT devices).
 
-![Dashboard][Dashboard]
+
 
 ## Features
 
