@@ -1,24 +1,13 @@
 ---
 layout: col-sidebar
 title: OWASP SecureTea Project
-tags: intrusion-detection-system,firewall,antivirus,local-web-deface-detection,owasp-securetea
+tags: intrusion detection system firewall antivirus local web deface detection owasp securetea
 level: 4
 type: Tool
 pitch:The OWASP SecureTea Project provides a one-stop security solution for various devices (personal computers / servers / IoT devices) https://securetea.org
 ---
 
-<!-- rebuild 1 -->
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
-
-type: For projects, one of documentation, code, or tool
+## Description
 <h1 align="center">
   <br>
   <a href="https://github.com/OWASP/SecureTea-Project">
@@ -118,14 +107,6 @@ For more detailed information, refer to the [installation guide](/doc/en-US/user
 
 For more detailed information, refer to the [usage guide](https://github.com/OWASP/SecureTea-Project/blob/master/doc/en-US/user_guide.md#usage).
 
-## Project Leaders
-
-- [Ade Yoseman][Ade]
-- [Rejah Rehim][Rejah]
-
-| **Chat Group** | **Google Summer of Code** | **YouTube** |
-| -------------- | ------------------------- |---------------------|
-| [<img src="/img/telegram.png" width="50" title="Telegram">][Telegram]  | [<img src="/img/GSoC-logo.jpg" width="100"></img>][GSOC-OWASP]  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/1024px-YouTube_Logo_2017.svg.png" width="90" title="YouTube">][YouTube] |
 
 [YouTube]: https://www.youtube.com/channel/UCGdl9tpc1qZYcM3WRRFRPPA
 [OWASP-logo]: https://github.com/OWASP/Amass/blob/master/images/owasp_logo.png
@@ -156,27 +137,3 @@ For more detailed information, refer to the [usage guide](https://github.com/OWA
 [Rejah]: https://rejahrehim.com
 [Ade]: https://www.owasp.org/index.php/Ade_Yoseman_Putra
 
-## Contributors
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-<table>
-  <tr>
-    <td align="center"><a href="https://abhisharma404.blogspot.com/"><img src="https://avatars0.githubusercontent.com/u/29058921?v=4" width="100px;" alt="Abhishek Sharma"/><br /><sub><b>Abhishek Sharma</b></sub></a><br /><a href="https://github.com/OWASP/SecureTea-Project/commits?author=abhisharma404" title="Code">💻</a> <a href="https://github.com/OWASP/SecureTea-Project/commits?author=abhisharma404" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://rejahrehim.com"><img src="https://avatars3.githubusercontent.com/u/4394746?v=4" width="100px;" alt="Rejah Rehim "/><br /><sub><b>Rejah Rehim </b></sub></a><br /><a href="https://github.com/OWASP/SecureTea-Project/commits?author=rejahrehim" title="Code">💻</a> <a href="https://github.com/OWASP/SecureTea-Project/commits?author=rejahrehim" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/adeyosemanputra"><img src="https://avatars1.githubusercontent.com/u/24958168?v=4" width="100px;" alt="adeyosemanputra"/><br /><sub><b>adeyosemanputra</b></sub></a><br /><a href="https://github.com/OWASP/SecureTea-Project/commits?author=adeyosemanputra" title="Code">💻</a> <a href="https://github.com/OWASP/SecureTea-Project/commits?author=adeyosemanputra" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/ananthus"><img src="https://avatars0.githubusercontent.com/u/30488894?v=4" width="100px;" alt="Ananthu S"/><br /><sub><b>Ananthu S</b></sub></a><br /><a href="https://github.com/OWASP/SecureTea-Project/commits?author=ananthus" title="Code">💻</a></td>
-    <td align="center"><a href="http://sunn-e.github.io"><img src="https://avatars3.githubusercontent.com/u/30065288?v=4" width="100px;" alt="Sunny Dhoke"/><br /><sub><b>Sunny Dhoke</b></sub></a><br /><a href="https://github.com/OWASP/SecureTea-Project/issues?q=author%3Asunn-e" title="Bug reports">🐛</a> <a href="https://github.com/OWASP/SecureTea-Project/commits?author=sunn-e" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/kUSHAL0601"><img src="https://avatars3.githubusercontent.com/u/29600964?v=4" width="100px;" alt="MajAK"/><br /><sub><b>MajAK</b></sub></a><br /><a href="https://github.com/OWASP/SecureTea-Project/commits?author=kUSHAL0601" title="Code">💻</a></td>
-    <td align="center"><a href="https://mishal23.github.io/"><img src="https://avatars3.githubusercontent.com/u/21958074?v=4" width="100px;" alt="Mishal Shah"/><br /><sub><b>Mishal Shah</b></sub></a><br /><a href="https://github.com/OWASP/SecureTea-Project/commits?author=mishal23" title="Code">💻</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://sam.ukjp.app"><img src="https://avatars1.githubusercontent.com/u/26642976?v=4" width="100px;" alt="sam@ukjp"/><br /><sub><b>sam@ukjp</b></sub></a><br /><a href="https://github.com/OWASP/SecureTea-Project/commits?author=sam-aldis" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
