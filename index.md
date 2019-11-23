@@ -13,17 +13,7 @@ pitch: The OWASP SecureTea Project provides a one-stop security solution for var
   <br>
 </h1>
 
-<h4 align="center">One stop security solution for your device<a href="https://github.com/OWASP/SecureTea-Project" target="_blank"></a></h4>
-
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#quick-start">Quick Start</a> •
-  <a href="#project-leaders">Project Leaders</a> •
-  <a href="#contributors">Contributors</a> •
-  <a href="/doc/en-US/user_guide.md">User Guide</a> •
-  <a href="/doc/en-US/dev_guide.md">Developer Guide</a>
-</p>
+<h4 align="left">One stop security solution for your device<a href="https://github.com/OWASP/SecureTea-Project" target="_blank"></a></h4>
 
 [![Build Status][Travis-badge]][Travis]
 [![Codacy Badge][Codacy-badge]][Codacy]
@@ -60,7 +50,7 @@ pitch: The OWASP SecureTea Project provides a one-stop security solution for var
 
 ## Installation
 
-![Setup Intro][Setup-help-animation]
+
 
 Before installing, please make sure to install the **[pre-requisites](/doc/en-US/user_guide.md#pre-requisites)**.
 
