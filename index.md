@@ -8,12 +8,10 @@ pitch: The OWASP SecureTea Project provides a one-stop security solution for var
 ---
 
 ## Description
-  <h1 align="left">
-  <br>
-  OWASP SecureTea
+
+OWASP SecureTea
   <br>
 </h1>
-
 <h4 align="left">One stop security solution for your device<a href="https://github.com/OWASP/SecureTea-Project" target="_blank"></a></h4>
 
 [![Build Status][Travis-badge]][Travis]
