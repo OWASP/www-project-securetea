@@ -1,16 +1,15 @@
-### [GROUPNAME] Information
-* [Flagship Project](#)
+### OWASP SecureTea Project Information
+* [Incubator Project](#)
 * [Tool Project](#)
-* [Version 2.8.0](#)
+* [Version 2.1](#)
 * [Builder](#)
 * [Breaker](#)
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+### Downloads 
+* [Download](https://github.com/OWASP/SecureTea-Project/archive/master.zip)
 
 ### Code Repository
-* [repo](#)
+* [repo](https://github.com/OWASP/SecureTea-Project)
 
 ### Change Log
 * [changes](#)
