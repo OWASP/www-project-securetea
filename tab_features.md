@@ -1,10 +1,10 @@
 ---
 
-title: Features
-layout: null
-order: 2
+title: features
+layout:  null
 tab: true
-tags: SecureTea
+order: 2
+tags: securetea
 
 ---
 
