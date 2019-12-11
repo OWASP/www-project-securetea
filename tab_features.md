@@ -2,7 +2,7 @@
 
 title: Features
 layout: null
-order: 4
+order: 2
 tab: true
 tags: SecureTea
 
