@@ -2,7 +2,7 @@
 layout: col-sidebar
 title: OWASP SecureTea Project
 tags: intrusion detection system firewall antivirus local web deface detection owasp securetea
-level: 2
+level: 4
 type: tool
 pitch: The OWASP SecureTea Project provides a one-stop security solution for various devices (personal computers / servers / IoT devices) https://securetea.org
 ---
