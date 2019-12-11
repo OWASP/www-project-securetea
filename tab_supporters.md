@@ -1,10 +1,11 @@
 ---
+
 title: Supporters
-displaytext: Our Supporters
-layout: null
+layout:  null
 tab: true
 order: 3
-tags: SecureTea
+tags: securetea
+
 ---
 
 ## Supporter
