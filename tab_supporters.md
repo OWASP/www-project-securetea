@@ -1,6 +1,7 @@
 ---
 title: Supporters
-layout:  Our Supporters
+displaytext: Our Supporters
+layout: null
 tab: true
 order: 2
 tags: SecureTea
