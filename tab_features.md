@@ -20,5 +20,5 @@ tags: securetea
 - [x] [Insecure Headers Detection](https://github.com/OWASP/SecureTea-Project/blob/master/doc/en-US/user_guide.md#insecure-headers)
 - [x] [IoT Anonymity Checker](https://github.com/OWASP/SecureTea-Project/blob/master/doc/en-US/user_guide.md#iot-anonymity-checker)
 - [x] [Auto Report Generation Using OSINT](https://github.com/OWASP/SecureTea-Project/blob/master/doc/en-US/user_guide.md)
-- [x] [Notifying Suspicious Activities Using Various Mediums (Twitter, Telegram, Slack, Gmail, SMS, AWS)](https://github.com/OWASP/SecureTea-Project/blob/master/en-US/user_guide.md#setting-up-notifiers)
+- [x] [Notifying Suspicious Activities Using Various Mediums (Twitter, Telegram, Slack, Gmail, SMS, AWS)](https://github.com/OWASP/SecureTea-Project/blob/master/doc/en-US/user_guide.md#setting-up-notifiers)
 - [x] [Interactive GUI For Ease Of Setting Up](https://github.com/OWASP/SecureTea-Project/blob/master/doc/en-US/user_guide.md#configuring-using-web-ui)
