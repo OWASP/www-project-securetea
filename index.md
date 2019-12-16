@@ -9,10 +9,6 @@ level: 4
 type: tool
 
 ---
-<!-- rebuild 40 -->
-
-<h1> OWASP SecureTea</h1>
-<h4 align="left">One stop security solution for your device<a href="https://github.com/OWASP/SecureTea-Project" target="_blank"></a></h4>
 
 [![Build Status][Travis-badge]][Travis]
 [![Codacy Badge][Codacy-badge]][Codacy]
@@ -27,7 +23,13 @@ type: tool
 [![Follow Us](https://img.shields.io/twitter/url/https/secureteatool.svg?label=SecureTea%20Project&style=social)](https://twitter.com/secureteatool)
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors)
 [![Heroku][Heroku]](https://secure-tea.herokuapp.com/)
-## Description
+
+<!-- rebuild 40 -->
+Welcome to the home of the OWASP SecureTea Project !
+The OWASP SecureTea Project is an application designed to help secure a person's laptop or computer / server with IoT (Internet Of Things) and notify users (via various communication mechanisms), whenever someone accesses their computer / server. 
+
+This application uses the touchpad/mouse/wireless mouse to determine activity and is developed in Python and tested on various machines (Linux, Mac & Windows). The software is still under development, and have it's own IDS(Intrusion Detection System) / IPS(Instrusion Prevention System), firewall, anti-virus, intelligent log monitoring capabilities with web defacement detection, and support for much more communication medium.
+
 **The OWASP SecureTea Project** provides a one-stop security solution for various devices (personal computers / servers / IoT devices).
 
 ## Installation
