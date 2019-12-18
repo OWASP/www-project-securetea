@@ -8,10 +8,6 @@ tags: securetea
 
 ---
 
-## Supporter
-
-SecureTea Project developed by a worldwide of volunteers in Morocco, France, India, China, Singapore, Indonesia, Canada and more.
-
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
