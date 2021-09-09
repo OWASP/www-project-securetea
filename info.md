@@ -1,5 +1,5 @@
 ### OWASP SecureTea Project Information
-* [Incubator Project](#)
+* [Lab Project](#)
 * [Tool Project](#)
 * [Version 2.1](#)
 * [Builder](#)
