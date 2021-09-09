@@ -5,7 +5,7 @@ title: OWASP SecureTea Project
 site_side: true
 tags: securetea
 project: true
-level: 2
+level: 3
 type: tool
 
 ---
