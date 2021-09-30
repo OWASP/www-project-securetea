@@ -33,7 +33,7 @@ This application uses the touchpad/mouse/wireless mouse to determine activity an
 
 ## Installation
 
-Before installing, please make sure to install the **[pre-requisites](/doc/en-US/user_guide.md#pre-requisites)**.
+Before installing, please make sure to install the **[pre-requisites](https://github.com/OWASP/SecureTea-Project/blob/master/doc/en-US/user_guide.md#pre-requisites)**.
 
 You can install SecureTea from PyPi package manager using the following command:
 
