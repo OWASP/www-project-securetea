@@ -1,3 +1,3 @@
 ### Leaders
-* [Ade Yoseman](mailto:edikdoank@gmail.com)
-* [Rejah Rehim](mailto:rejah.rehim@gmail.com)
+* [Ade Yoseman](mailto:ade.putra@owasp.org)
+* [Rejah Rehim](mailto:rejah.rehim@owasp.org)
